@@ -1,5 +1,5 @@
 github "SDWebImage/SDWebImage" "5.11.0"
-github "TimOliver/TOCropViewController" "2.6.0"
+github "TimOliver/TOCropViewController" "2.5.5"
 github "ghazel/DKPhotoGallery" "8a2c600e9b9f40c3167bea59ebc4ad2821244d20"
 github "kirualex/SwiftyGif" "5.4.0"
 github "zhangao0086/DKCamera" "1.6.7"

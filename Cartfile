@@ -1,3 +1,3 @@
 github "zhangao0086/DKCamera"
 github "ghazel/DKPhotoGallery" "develop"
-github "TimOliver/TOCropViewController" ~> 2.4
+github "TimOliver/TOCropViewController" == 2.5.5
